@@ -1,2 +1,3 @@
 # ecommerce
-E-alışveriş sitesi
+E-commerce website
+Made with Python Django
